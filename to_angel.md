@@ -6,7 +6,7 @@
 
 *Always think there are no big problem enough to get you stuck, think all problems can be split into little problems. Divide to rule! This always works.*
 
-*Please try to learn as much as possible, every lesson, every reviewer comment, and every post in the forums will help you to overcome solve the new problems that will appear!*
+*Please try to learn as much as possible, every lesson, every reviewer's comment, and every post in the forums will help you to overcome solve the new problems that will appear!*
 
 *Lastly, enjoy! Enjoy every second of this travel with enthusiasm, because after all, life, in every of its aspects, is to enjoy and have fun!*
 
