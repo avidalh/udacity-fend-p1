@@ -1,6 +1,6 @@
 *Hi Angel,*
 
-*You have decided to enroll in an amazing travel across the **Front-End Web Developer ND**, a great decision!. Please take into account it will be hard, and I'm sure you'll get stuck. Both issues are normal when someone decides to take the control of his/her life by performing some deep changes in its direction. Anyway, I know you are strong enough to overcome all the possible upcoming troubles, just trust in the force, your mind's force, it will guide you!*
+*You have decided to enroll in an amazing travel across the __Front-End Web Developer ND__, a great decision!. Please take into account it will be hard, and I'm sure you'll get stuck. Both issues are normal when someone decides to take the control of his/her life by performing some deep changes in its direction. Anyway, I know you are strong enough to overcome all the possible upcoming troubles, just trust in the force, your mind's force, it will guide you!*
 
 *When you fall into problems and feel stuck and like giving up, just breath and stop working in that recursive problem! Take a break, put your trainers on and go out to run a couple of miles. I'm sure your mind will disconnect from that problematic task, the next time you open your notebook the solution will appear. **Your mind is your biggest weapon** to solve problems, and sometimes it just needs some time to do it*
 
