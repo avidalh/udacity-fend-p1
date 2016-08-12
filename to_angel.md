@@ -8,7 +8,7 @@
 
 *Please try to learn as much as possible, every lesson, every reviewer's comment, and every post in the forums will help you to overcome the new problems that for sure will appear! __Google and StackOverflow__ are amazing information resources.*
 
-*Lastly, enjoy! Enjoy every second of this travel with enthusiasm, because after all, __life__, in every of its aspects, is to __enjoy and have fun!__*
+*Lastly, enjoy! __Enjoy every second__ of this travel with enthusiasm, because after all, __life__, in every of its aspects, is to __enjoy and have fun!__*
 
 *Happy learning and be Udacious,*
 
